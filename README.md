@@ -2,9 +2,9 @@
 
 <div align="center"><br/>
   <div style="display: inline-block;">
-    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/PartyGon">
-    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/PartyGon">
-    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/PartyGon">
+    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/PartyGon.svg">
+    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/PartyGon.svg">
+    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/PartyGon.svg">
   </div>
   <div style="display: inline-block;">
     <img align="center" alt="downloads" src="https://img.shields.io/github/downloads/letfritz/PartyGon/total.svg">
